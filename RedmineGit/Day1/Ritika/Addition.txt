@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Take three variables x, y and sum
+Step 3: Enter value of x and y
+Step 3: Calculate sum
+sum=x+y
+Step 4: Display sum
+Step 5: Stop

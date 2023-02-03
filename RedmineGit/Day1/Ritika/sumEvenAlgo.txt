@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Take variable n, i and sum=0
+Step 3: Enter the value of n
+Step 3: for(i=2;i<n;i+2)
+Step 4: {
+Step 5: sum=sum+i
+Step 6: }
+Step 7: Print sum
+Step 8: Stop

@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Take variable r and area
+Step 3: Enter the radius of circle in variable r
+Step 4: Calculate the area of circle
+area=(py)r^2
+Step 5: Display area
+Step 6: Stop
